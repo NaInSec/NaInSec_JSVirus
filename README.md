@@ -14,7 +14,7 @@ File ini mengandung kode JavaScript untuk menginfeksi sistem pengguna dengan mem
 ##### 3. File 3: `Virus.js`
 File ini berisi kode JavaScript untuk menginfeksi sistem pengguna dengan membuat file JavaScript baru di desktop pengguna dan melakukan serangkaian tindakan berulang dengan jeda waktu tertentu, termasuk memainkan suara peringatan dan melakukan aksi penyimpanan.
 
-##### 4. File 4: `App.js`
+##### 4. File 4: `Apps.js`
 Adalah file dengan koneksi ketiga file diatas.
 
 ### Cara Penggunaan
